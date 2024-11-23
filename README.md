@@ -6,4 +6,4 @@
 
 This project demonstrates the use of DOM, JavaScript, HTML, and CSS.
 
-Have a great day!
+😄 Have a great day!
