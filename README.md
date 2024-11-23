@@ -1,8 +1,9 @@
-# To-Do-List-Website
-This is a to-do list website
+# To-Do List Website
 
-👋 Hi I am Gyansh, This Is A To-Do List Website Which adds a task 
+👋 Hi, I’m Gyansh! Welcome to my To-Do List Website.  
+😎 You can add tasks, mark them as done, and delete them.  
+😑 Unfortunately, it's made with just the frontend, so there’s no database.  
 
-This explains DOM, JS, HTML, and CSS.
+This project demonstrates the use of DOM, JavaScript, HTML, and CSS.
 
-Have a great day! 
+Have a great day!
